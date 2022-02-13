@@ -1,0 +1,3 @@
+[submodule "mice"]
+	path = src/libs/mice
+	url = https://github.com/niiree/mice
